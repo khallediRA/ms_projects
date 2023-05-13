@@ -1,0 +1,500 @@
+  276  cd Desktop/react_Projects/contractzlab/web-client/
+  277  history > history.txt
+  278  vim history.txt 
+  279  npm list
+  280  ls -R
+  281  find . -type d | sed 's|./||' | sed 's|/|  |g' | sed 's|^|  |'
+  282  npm ls --depth=0
+  283  find . -type f -o -type d | sed 's|./||' | sed 's|/|  |g' | sed 's|^|  |'
+  284  npm-ls-files
+  285  vim history.txt 
+  286  npm ls
+  287  npm ls --depth=0
+  288  npm ls --depth=
+  289  npm ls --depth=1
+  290  vim history.txt 
+  291  npm list
+  292  npm ls -a
+  293  clear
+  294  find ./src -type d -print -o -type f -print
+  295  cd Desktop/HTMLCSSJS/STPH-VF/
+  296  ll
+  297  code .
+  298  cd Desktop/react_Projects/contractzlab/web-api/
+  299  npm run start
+  300  cd Desktop/react_Projects/contractzlab/web-client/
+  301  code .
+  302  code .
+  303  code .
+  304  cd Desktop/react_Projects/contractzlab/web-api/
+  305  npm run start
+  306  npm run start 
+  307  cd Desktop/react_Projects/contractzlab/web-api/
+  308  npm run start
+  309  cd Desktop/react_Projects/contractzlab/web-api/
+  310  npm run start
+  311  npm run start
+  312  winpty mysql -u root -p
+  313  npm run start
+  314  winpty mysql -u root -p
+  315  npm run start
+  316  cd Desktop/react_Projects/contractzlab/web-api/
+  317  npm run start
+  318  cd Desktop/react_Projects/contractzlab/web-api/
+  319  npm run start
+  320  cd Desktop/SpringBootProjects/
+  321  ll
+  322  cd 'udemy cours reworked'/
+  323  ll
+  324  cd accounts
+  325  cd accounts/
+  326  ll
+  327  cd docker-compose/
+  328  ll
+  329  cd default/
+  330  ll
+  331  vim docker-compose.yml 
+  332  cd ../../
+  333  ll
+  334  vim Dockerfile
+  335  ll
+  336  cd docker-compose/default/
+  337  ll
+  338  vim docker-compose.yml 
+  339  cd ../.././/.
+  340  cd ../../..
+  341  cd ..
+  342  cd react_Projects/contractzlab/
+  343  ll
+  344  cd web-api/
+  345  cd ..
+  346  cd web-client/
+  347  vim docker-compose.yml 
+  348  cd ..
+  349  cd ..
+  350  cd ..
+  351  cd SpringBootProjects/
+  352  ll
+  353  cd Time_sheet_DevOps/
+  354  ll
+  355  cd ..
+  356  find ..
+  357  cd ..
+  358  find . -name "docker-compose"
+  359  cd SpringBootProjects/
+  360  ll
+  361  code aam_backend/
+  362  cd 'udemy cours reworked'/
+  363  ll
+  364  cd Desktop/react_Projects/contractzlab/web-api/
+  365  npm run start
+  366  docker images 
+  367  docker images 
+  368  docker images 
+  369  docker images | grep "contractzlab"
+  370  docker images | grep "backend"
+  371  ll
+  372  docker build . -t rkhalledi/contractzlab_backend
+  373  ll
+  374  docker ps
+  375  docker iamages
+  376  docker images
+  377  code .env 
+  378  cd Desktop/react_Projects/contractzlab/web-client/
+  379  code .
+  380  ll
+  381  docker build . -t rkhalledi/contractzlab_frontend
+  382  docker ps
+  383  docker images
+  384  docker images
+  385  docker images rm eazybytes/eurekaserver
+  386  docker image rm eazybytes/eurekaserver
+  387  docker build . -t rkhalledi/contractzlab_frontend 
+  388  docker images | grep "contractzlab"
+  389  docker image rm rkhalledi/contractzlab_frontend
+  390  docker build . -t contractzlab_frontend 
+  391  docker tag contractzlab_frontend rkhalled/contractzlab_frontend
+  392  cd ..
+  393  cd web-api/
+  394  docker build . -t contractzlab_backend
+  395  docker images | grep "contractzlab"
+  396  docker build . -t contractzlab_backend
+  397  vim Dockerfile 
+  398  code Dockerfile 
+  399  docker images
+  400  docker images |grep "contractzlab"
+  401  docker images |grep "eazybank"
+  402  docker build . -t contractzlab_frontend
+  403  vim Dockerfile 
+  404  docker build . -t contractzlab_frontend
+  405  docker build . -t contractzlab_frontend
+  406  docker ps
+  407  docker ps
+  408  docker images 
+  409  docker image rm eazybytes/loans
+  410  docker images |grep "eazybytes"
+  411  docker image rm eazybytes/*
+  412  docker image rm eazybytes/cards
+  413  docker image rm eazybytes/configserver
+  414  docker image rm eazybytes/gateway
+  415  docker images 
+  416  docker tag contractzlab_frontend rkhalledi/contractzlab_frontend
+  417  docker images
+  418  docker images
+  419  cd Desktop/react_Projects/contractzlab/web-client/
+  420  git pull 
+  421  code.
+  422  code .
+  423  cd ../web-api/
+  424  npm run start
+  425  winpty mysql -u root -p
+  426  npm run start
+  427  winpty mysql -u root -p
+  428  npm run start
+  429  winpty mysql -u root -p
+  430  npm run start
+  431  cd Desktop/
+  432  locate 
+  433  locate "k8s"
+  434  locate "*.yml"
+  435  find . -name "*.yaml"
+  436  find . -name "k8s"
+  437  find . -name "deployment.yaml"
+  438  cd SpringBootProjects/
+  439  cd "udemy cours reworked"/
+  440  ll
+  441  cd k8s/
+  442  ls
+  443  kubectl get pods
+  444  cd /
+  445  du -h --max-depth=1 | sort -rh | head -n 10
+  446  ls
+  447  cd u
+  448  ll
+  449  cd usr
+  450  ll
+  451  cd ..
+  452  cd ~
+  453  ~ls
+  454  ll
+  455  du -h --max-depth=1 | sort -rh | head -n 10
+  456  du -h . --max-depth=1 | sort -rh | head -n 10
+  457  pwd
+  458  cd Desktop/react_Projects/contractzlab/web-api/
+  459  npm run start
+  460  cd -
+  461  cd Desktop/react_Projects/contractzlab/web-client/
+  462  code .
+  463  cd Desktop/react_Projects/contractzlab/web-api/
+  464  npm run start
+  465  cd Desktop/
+  466  cd SpringBootProjects/
+  467  ll
+  468  history
+  469  du -h --max-depth=1 | sort -rh | head -n 10
+  470  du -h
+  471  du -h --max-depth=1 | head -n 10
+  472  du -h --max-depth=1 | sort -rh | 
+  473  du -h --max-depth=1 | sort -rh 
+  474  du -h --max-depth=1 | head -n 10
+  475  cd ..
+  476  du -h --max-depth=1 | head -n 10
+  477  find . -name "flutter"
+  478  cd "C:\Users\HP\Desktop\flutterprojects"
+  479  git init 
+  480  git add .
+  481  git commit -m "first"
+  482  git branch -M main 
+  483  git remote add origin https://github.com/khallediRA/flutterprojects.git
+  484  git push
+  485  git push -u origin main 
+  486  kubectl get pods
+  487  cd ..
+  488  kubectl
+  489  docker images 
+  490  cd react_Projects/contractzlab/web-client/
+  491  ll
+  492  docker build . -t rkhalledi/contractzlab_frontend
+  493  docker push rkhalledi/contractzlab_frontend
+  494  cd ..
+  495  cd web-api/
+  496  npm run start
+  497  cd Desktop/SpringBootProjects/
+  498  ll
+  499  cd aam_backend/
+  500  code .
+  501  cd Desktop/SpringBootProjects/
+  502  cd Accounts-MS/
+  503  ll
+  504  cd ..
+  505  cd 'udemy cours reworked'/
+  506  ll
+  507  cd accounts/accounts/
+  508  code .
+  509  cd ..
+  510  cd ..
+  511  ll
+  512  vim runner.sh 
+  513  cd accounts/accounts/
+  514  ll
+  515  cd docker-compose/
+  516  cd default/
+  517  docker images |grep "rkhalledi"
+  518  vim docker-compose.yml 
+  519  docker compose up
+  520  ll
+  521  cp docker-compose.yml docker-compose-old.yml
+  522  code docker-compose.yml 
+  523  docker compose up
+  524  code docker-compose-old.yml 
+  525  cd ..
+  526  cd ..
+  527  vim src/main/resources/application.properties 
+  528  code .
+  529  cd docker-compose/default/
+  530  ll
+  531  mv docker-compose-old.yml docker-compose.yml 
+  532  ll
+  533  docker compose up 
+  534  cd ../..
+  535  mvn clean package -DskipTests
+  536  docker build . -t rkhalled/accounts
+  537  docker images |grep "rkhalledi"
+  538  docker images |grep "rkhalledi/accounts"
+  539  docker build . -t rkhalledi/accounts
+  540  docker images |grep "rkhalledi/accounts"
+  541  docker image rm c6bc
+  542  docker image rm c6bc -f
+  543  docker images |grep "rkhalled"
+  544  docker image rm 7ac154
+  545  docker image rm 7ac154 -f
+  546  cd docker-compose/
+  547  cd default/
+  548  docker compose up -d
+  549  docker ps
+  550  docker logs -f 1c2d
+  551  docker logs -f b300
+  552  vim docker-compose.yml 
+  553  docker logs -f b300
+  554  docker images
+  555  docker images | grep rkhalledi
+  556  docker images | grep rkhalledi/accounts
+  557  cd ..
+  558  cd default/
+  559  docker compose down
+  560  cd ../../..
+  561  cd accounts/
+  562  docker build . -t rkhalledi/accounts:latest
+  563  cd target/
+  564  ll
+  565  unzip accounts-0.0.1-SNAPSHOT.jar
+  566  cd BOOT-INF/
+  567  ll
+  568  cd lib/
+  569  ll
+  570  ll
+  571  ll
+  572  ll | head 10
+  573  ll | head -n 10
+  574  cd ..
+  575  ll
+  576  cd class
+  577  cd classes/
+  578  ll
+  579  vim application.properties 
+  580  cd ..
+  581  cd ..
+  582  cd ..
+  583  docker images |grep rkhalledi/accounts
+  584  cd docker-compose/
+  585  ll
+  586  cd default/
+  587  ll
+  588  docker compose up -d
+  589  docker ps
+  590  docker logs -f 81a7
+  591  docker logs -f 81a7
+  592  docker logs -f 81a7
+  593  clear
+  594  docker logs -f 81a7
+  595  docker logs -f 81a7
+  596  docker compose down
+  597  cd ../../..
+  598  cd ..
+  599  ls
+  600  cd transactions/
+  601  ll
+  602  cp ../accounts/accounts/Dockerfile Dockerfile
+  603  mvn clean package -DskipTests
+  604  cd target/
+  605  ll
+  606  cd ..
+  607  vim Dockerfile 
+  608  vim 
+  609  vim Dockerfile 
+  610  docker build . -t rkhalledi/transactions:latest
+  611  cd ../accounts/accounts/
+  612  docker build .-t rkhalledi/accounts:latest
+  613  ll
+  614  ll
+  615  docker build .-t rkhalledi/accounts:latest
+  616  docker build . -t rkhalledi/accounts:latest
+  617  mvn clean package -DskipTests
+  618  mvn clean package -DskipTests
+  619  code docker-compose/default/docker-compose.yml 
+  620  docker images |grep rkhalledi
+  621  cd ..
+  622  cd ..
+  623  cd transactions/
+  624  vim src/main/resources/application.properties 
+  625  docker ps
+  626  cd ../accounts/accounts/docker-compose/default/
+  627  clear
+  628  ll
+  629  docker compose up -d
+  630  docker ps
+  631  docker logs -f 21bd
+  632  docker logs -f 21bd
+  633  cd ../../../../configserver
+  634  ll
+  635  code . 
+  636  docker logs -f 21bd
+  637  clear
+  638  docker ps
+  639  docker logs -f 9a10 
+  640  docker logs -f 9a10 
+  641  clear
+  642  docker ps
+  643  cd ../
+  644  cd accounts/accounts/docker-compose/
+  645  ll
+  646  cd default/
+  647  code docker-compose.yml 
+  648  docker ps
+  649  docker ps -a
+  650  clear
+  651  docker ps -a
+  652  docker logs 1c135
+  653  docker logs -f 1c135
+  654  clear
+  655  docker compose down
+  656  docker ps
+  657  docker ps -a
+  658  docker compose up -d
+  659  clear
+  660  docker ps
+  661  docker logs -f cd245
+  662  docker logs -f cd245
+  663  docker logs -f cd245
+  664  docker logs -f cd245
+  665  docker logs -f cd245
+  666  docker logs -f cd245
+  667  docker ps
+  668  docker compose down
+  669  wsl --shutdown
+  670  wsl --shutdown
+  671  wsl 
+  672  docker compose up -d
+  673* 
+  674  docker logs -f 56ae
+  675  docker logs -f 56ae
+  676  docker logs -f 56ae
+  677  docker logs -f 56ae
+  678  docker logs -f 56ae
+  679  docker logs -f 56ae
+  680  docker logs -f 56ae
+  681  docker ps
+  682  docker compose down
+  683  docker compose up -d
+  684  docker ps
+  685  docker logs -f ef885
+  686  docker logs -f ef885
+  687  docker ps
+  688  docker logs -f ccdb
+  689  docker ps
+  690  docker logs -f ec33
+  691  docker ps
+  692  docker logs -f 9c9e
+  693  docker logs -f 9c9e
+  694  docker compose down
+  695  docker ps -a
+  696  cd ..
+  697  cd ..
+  698  cd ..
+  699  cd ..
+  700  cd ..
+  701  cd "udemy cours reworked"/
+  702  git add .
+  703  git commit -m "VF"
+  704  git push 
+  705  git remove -v
+  706  git remote -v
+  707  docker images |grep transactions
+  708  cd accounts/accounts/docker-compose/default/
+  709  vim docker-compose.yml 
+  710  gcloud container clusters get-credentials autopilot-cluster-1 --region us-central1 --project microservices-379909
+  711  cd ../../../
+  712  cd ..
+  713  ll
+  714  docker push rkhalledi/accounts:latest
+  715  kubectl get pods -o wide
+  716  kubectl logs gk3
+  717  kubectl logs gk3-autopilot-cluster-1-pool-1-c5f81eaf-n62x
+  718  kubectl logs zipkin-deployment-867fb6c59d-2hqkd
+  719  kubectl logs -f zipkin-deployment-867fb6c59d-2hqkd
+  720  cd k8s/
+  721  clear
+  722  ll
+  723  kubectl delete -f configserver.yml 
+  724  kubectl delete -f eurekaserver.yml 
+  725  kubectl delete -f zipkingserver.yml 
+  726  kubectl delete -f loans.yml 
+  727  kubectl delete -f gatewayserver.yml 
+  728  kubectl delete -f cards.yml 
+  729  kubectl delete -f accounts.yml 
+  730  vim configmaps.yml 
+  731  kubectl apply -f zipkingserver.yml
+  732  kubectl apply -f configserver.yml 
+  733  kubectl apply -f eurekaserver.yml 
+  734  kubectl apply -f cards.yml 
+  735  kubectl apply -f loans.yml 
+  736  kubectl apply -f cards.yml 
+  737  kubectl get pods
+  738  kubectl delet -f cards.yml 
+  739  kubectl delete -f cards.yml 
+  740  kubectl apply -f cards.yml 
+  741  kubectl apply -f accounts.yml 
+  742  kubectl apply -f gatewayserver.yml 
+  743  ll
+  744  kubectl get nodes -o wide 
+  745  kubectl get pods -o wide 
+  746  kubectl get pods -o wide 
+  747  code .
+  748  kubectl get pods -o wide 
+  749  kubectl get pods -o wide 
+  750  kubectl apply -f cards.yml 
+  751  kubectl apply -f loans.yml 
+  752  kubectl apply -f accounts.yml 
+  753  kubectl get pods -o wide 
+  754  kubectl get pods -o wide 
+  755  code .
+  756  kubectl get pods -o wide 
+  757  kubectl get pods -o wide
+  758  code ../accounts/accounts/docker-compose/default/docker-compose.yml 
+  759  cd ..
+  760  cd accounts/accounts/
+  761  code. 
+  762  code .
+  763  cd ..
+  764  cd ..
+  765  ll
+  766  cd k8s/
+  767  ll
+  768  history
+  769  docker images 
+  770  docker images |rkhalledi
+  771  docker images |greprkhalledi
+  772  docker images |grep rkhalledi
+  773  cd ..
+  774  history
+  775  history > history.txt
